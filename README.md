@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](#)
-- Live Site URL: [Live Project](#)
+- Live Site URL: [Live Project](https://sudh7n.github.io/Intro-section-with-dropdown-navigation/)
 
 ## My Process
 
